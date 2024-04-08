@@ -14,7 +14,7 @@
 
 /* if you write numbers of the names (indexes) concole will slice the chosen name    */
 
-// const arr =['Alex', 'Kevin', 'Ronalgo', 'Vini' , 'Haaland']
+// const arr =['Alex', 'Kevin', 'Ronaldo', 'Vini' , 'Haaland']
 // let n = +prompt('write down any number?')
 // if (n===1) {
 //   arr.splice(0,1)
@@ -32,18 +32,18 @@
 //   console.log(arr)
 
 
-//   const arr =['Alex', 'Kevin', 'Ronalgo', 'Vini' , 'Haaland']
+//   const arr =['Alex', 'Kevin', 'Ronaldo', 'Vini' , 'Haaland']
 //   let n = prompt('write down any name?')
 //   if (n==='Alex') {
-//      console.log(arr.splice(0,1))
+//      arr.splice(0,1)
 //   } else if (n==="Kevin") {
-//       console.log(arr.splice(1,1))
+//       arr.splice(1,1)
 //   } else if (n==="Ronaldo") {  
-//       console.log(arr.splice(2,1))
+//       arr.splice(2,1)
 //   } else if (n==="Vini") {   
-//       console.log(arr.splice(3,1))
+//       arr.splice(3,1)
 //     } else if (n==="Haaland") {   
-//       console.log(arr.splice(4,1))
+//       arr.splice(4,1)
 //     } else {
 //       alert('nooooo')
 //     }
